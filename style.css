@@ -1,0 +1,48 @@
+style.css
+
+h1 {
+  color: black;
+}
+
+
+bilde. {
+  width: 200px;
+  border-radius: 25%;
+  height:auto;
+  border-color: white
+
+}
+
+h2 {
+  color: white;
+  font-style: italic;
+  text-align: center;
+  text-decoration:underline;
+}
+
+p {
+   color: white;
+   text-align: center;
+
+}
+
+body {
+  background-color: lightblue;
+
+}
+
+
+h3 {
+  font-style: normal;
+  font-weight: bolder;
+  color: white;
+}
+
+.Portfolio {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  padding: 15px 32px;
+  text-decoration-color: black;
+
+}
